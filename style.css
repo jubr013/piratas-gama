@@ -10,11 +10,17 @@ body {
 
 }
 
-h1{
-
+.titulo-principal{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
 }
 
-p{
+.paragrafo-principal{
+    font-size: 24px;
+    line-height: 31px;
+    color: #FFFFFF;
 
 }
 
