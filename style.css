@@ -1,13 +1,13 @@
 body {
     font-family: 'IBM Plex Sans', sans-serif;
+    background: rgb(1,118,151);
 }
 
-.logo{
 
-}
-
-.left{
-
+.chamada{
+    max-width: 800px;
+    padding: 40px 0;
+    margin: 0 auto;
 }
 
 .titulo-principal{
@@ -15,21 +15,62 @@ body {
     font-size: 36px;
     line-height: 42px;
     color: #FFFFFF;
+    margin-bottom: 56px;
 }
 
 .paragrafo-principal{
     font-size: 24px;
     line-height: 31px;
     color: #FFFFFF;
+    margin-bottom:56px;
 
 }
 
+.abre-modal {
+    background: #5DFFD6;
+    border-radius: 10px;
+    border:none;
+    color:#000;
+    width :265px;
+    height:61px;
+    font-weight:500;
+    font-size: 18px;
+    display:flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:relative;
+
+}
+
+.item-do-botao{
+    font-size: 26px;
+    color:#000;
+    position:absolute;
+    right:20px;
+    
+
+
+}
 /* CSS FORMULÁRIO*/
 
 .container-formulario {
     background: #FFFFFF;
     border-radius: 10px;
     padding: 45px 46px 30px;
+}
+
+.container-formulario .close {
+    color:#000;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    position: absolute;
+    left: 89.91%;
+    right: 5.05%;
+    top: 2.43%;
+    bottom: 93.15%;
+
 }
 
 .container-formulario .titulo-formulario {
@@ -62,6 +103,7 @@ body {
     border:none;
     height:39px;
     margin-bottom: 10px;
+    width:100%;
 }
 
 .container-formulario .formulario .texto-obrigatorio {
@@ -87,3 +129,9 @@ body {
     margin-bottom:10px;
 }
 
+.container-formulario .checkbox{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color:#000
+}
