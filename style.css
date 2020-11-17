@@ -19,12 +19,29 @@ body {
 }
 
 .paragrafo-principal{
-    font-size: 24px;
+    font-size: 20px;
     line-height: 31px;
     color: #FFFFFF;
     margin-bottom:56px;
 
 }
+.destaques-do-paragrafo{
+    background-color:#00FF00;
+    color:#fff;
+}
+.conteudo-ebook{
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 42px;
+    color: #FFFFFF;
+    margin-bottom:56px;
+}
+
+.lista-conteudo{
+    font-size: 20px;
+    line-height: 31px;
+    color: #FFFFFF;
+    margin-bottom:56px;}
 
 .abre-modal {
     background: #5DFFD6;
