@@ -1,5 +1,8 @@
+
+
 # StayBalanced
 É uma pagina de site,abordando a importancia da saúde mental no ambiente home-office.
+Link para o site : https://https://staybalanced.com.br/
 
 - Conteúdo do site:
 - Index
@@ -10,7 +13,7 @@
 O site possui um index com formulário de lead, no qual,ao apertar o botão nomeado "RECEBER MATERIAL",será direcionado a thank you page.Nessa thank you page,o usuario terá acesso a nosso kit de 04 e-books .
 
 ## Desenvolvimento:
-Para iniciar o desenvolvimento,é necessário clonar  o projeto de Github no diretório,no caso,o utilizado foi o Visual Studio Code
+Para iniciar o desenvolvimento,é necessário clonar  o projeto de Github no diretório,no caso,o utilisado foi o Visual Studio Code
 
 cd "visual studio code"
 git clone https://github.com/jubr013/piratas-gama.git
