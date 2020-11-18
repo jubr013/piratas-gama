@@ -1,8 +1,29 @@
 body {
-    font-family: 'IBM Plex Sans', sans-serif;
-    background: rgb(1,118,151);
+    font-family:'Nunito', sans-serif;
+    background: #FFF;
 }
 
+b{
+    font-weight: 700;
+
+}
+
+.background{
+    background: url("../img/Vector1.png") no-repeat center -33%;
+    background-size:contain;
+    
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    padding-top:24px;
+}
+
+.logo-stay-balanced{
+    height:111px;
+   
+}
 
 .chamada{
     max-width: 700px;
@@ -11,36 +32,46 @@ body {
 }
 
 .titulo-principal{
-    font-weight: 500;
-    font-size: 36px;
+    font-weight: 700;
+    font-size: 27px;
     line-height: 42px;
     color: #FFFFFF;
-    margin-bottom: 56px;
+    
+}
+
+.line{
+    background-color:#5DFFD6;
+    height: 6px;
+    width: 196px;
+    margin-bottom: 29px;
+    margin-top:23px;
 }
 
 .paragrafo-principal{
     font-size: 20px;
     line-height: 31px;
-    color: #FFFFFF;
+    color: #005E81;
+    font-weight: 300;
     margin-bottom:56px;
+}
 
+.reading{
+    height:375px;
+    margin-top:48px;
 }
-.destaques-do-paragrafo{
-    background-color:#00FF00;
-    color:#fff;
-}
+
 .conteudo-ebook{
     font-weight: 500;
     font-size: 27px;
     line-height: 42px;
-    color: #FFFFFF;
+    color:#005E81;
     margin-bottom:56px;
 }
 
 .lista-conteudo{
     font-size: 20px;
     line-height: 31px;
-    color: #FFFFFF;
+    color:#005E81;
     margin-bottom:56px;}
 
 .abre-modal {
