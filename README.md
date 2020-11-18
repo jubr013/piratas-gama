@@ -4,7 +4,7 @@
 É uma pagina de site,abordando a importancia da saúde mental no ambiente home-office.
 Link para o site : https://https://staybalanced.com.br/
 
-- Conteúdo do site:
+ Conteúdo do site:
 - Index
 - Formulário
 - Thank you page
