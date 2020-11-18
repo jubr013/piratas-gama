@@ -22,6 +22,7 @@ git clone https://github.com/jubr013/piratas-gama.git
 Para fazer o teste de captura de leads sem poluir a nossa base de dados,utilizamos o seguinte comando:
 ```
 <input name="debugMode" type="hidden" value="true" />
+```
 
 #### Pagina de capturação de leads
 Os desenvolvedores criaram apenas o html e css. Toda a formatação de back-end foi fornecido pela Gama Academy a partir do seguinte link:
