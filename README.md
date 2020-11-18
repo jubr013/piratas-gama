@@ -20,6 +20,7 @@ git clone https://github.com/jubr013/piratas-gama.git
 
 ### Executando os testes
 Para fazer o teste de captura de leads sem poluir a nossa base de dados,utilizamos o seguinte comando:
+```
 <input name="debugMode" type="hidden" value="true" />
 
 #### Pagina de capturação de leads
