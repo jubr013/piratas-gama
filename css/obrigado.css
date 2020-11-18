@@ -20,6 +20,11 @@
     }
 }
 */
+.titulo-principal{
+    margin-bottom:20px;
+}
  a{
     color:#5DFFD6 ;
+    margin:1em;
+    font-size:20px;
 }
