@@ -1,0 +1,25 @@
+
+.background{
+    background: url("../img/fundo-stay.svg") no-repeat center -33%;
+    background-size:2300px;
+    
+}
+/*
+@media (max-width:320px){
+    .background{
+        background-size:1610px;
+    }
+    .enviar{
+        max-width:100%;
+    }
+}
+
+@media(min-width:430px )and (max-width:1024px){
+    .background{
+        background-size:1610px;
+    }
+}
+*/
+ a{
+    color:#5DFFD6 ;
+}
