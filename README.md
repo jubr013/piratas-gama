@@ -26,6 +26,7 @@ Para fazer o teste de captura de leads sem poluir a nossa base de dados,utilizam
 
 #### Pagina de capturação de leads
 Os desenvolvedores criaram apenas o html e css. Toda a formatação de back-end foi fornecido pela Gama Academy a partir do seguinte link:
+
 ( https://smtl.gama.academy/leads/1ccc5851-25e3-11eb-bf8d-0d63c80760d2 )
 
 ##### Desenvolvedores
